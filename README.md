@@ -1,2 +1,2 @@
 # MyBoat
-Nuh'un gemisi
+Özkan'ın gemisi
